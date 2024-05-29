@@ -16,7 +16,7 @@ In This document we will see both CI & CD process, CI using **Jenkins** and CD u
 
    **Jenkins URL:** http://54.236.213.208:8080/job/ultimate-cicd/
 
-   ![Jenkins-cicd](https://github.com/digupawar/Jenkins-Zero-To-Hero/assets/72307345/99846c61-dbd4-46d1-bdfa-69e38938236b)
+   ![image](https://github.com/digupawar/Jenkins-Zero-To-Hero/assets/72307345/75ec6e13-391f-4707-a8db-fd2441f7b764)
 
 4. Code quality analysis using Sonarqube.
 
