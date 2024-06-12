@@ -4,6 +4,7 @@ FROM adoptopenjdk/openjdk11:alpine-jre
 
 # Simply the artifact path
 #Refer to Maven build -> finalname
+#https://github.com/digupawar/Jenkins-Zero-To-Hero/blob/main/java-maven-sonar-argocd-helm-k8s/spring-boot-app/pom.xml#L54
 ARG artifact=target/spring-boot-web.jar
 
 # cd /opt/app
